@@ -45,6 +45,10 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+Laptop
+GitHub
+Git
+Internet connection. 
 
 ### Setup
 
@@ -72,6 +76,16 @@ npm install
 - GitHub: [@githubhandle](https://github.com/SanaTameem)
 - Twitter: [@twitterhandle](https://twitter.com/sana_tameem)
 - LinkedIn: [LinkedIn](http://linkedin.com/in/sana-tameem-a63b55240)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Using Node Module]**
+- [ ] **[HTML linters]**
+- [ ] **[CSS linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
