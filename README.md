@@ -30,10 +30,6 @@
 ## 🛠 Built With <a name="built-with"></a>
 HTML
 CSS
--**[Using Node Module]**
--**[HTML linters]**
--**[CSS linters]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -61,8 +57,8 @@ https://github.com/SanaTameem/hello-microverse
 Install this project with:
 
 ```sh
-  cd my-project
-  gem install
+  cd hello-microverse
+  npm install
 ```
 ### Usage
 
@@ -83,9 +79,9 @@ npm install
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Using Node Module]**
-- [ ] **[HTML linters]**
-- [ ] **[CSS linters]**
+- [ ] **[Portfolio]**
+- [ ] **[Mobile Vesrion]**
+- [ ] **[Desktop Version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
